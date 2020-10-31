@@ -225,6 +225,7 @@ header #toggle:after{
 		right: initial;
 		margin-top: 10px;
 		flex-direction: row;
+		justify-content: center;
 	}
 
 	.sci li a{
